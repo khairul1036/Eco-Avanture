@@ -1,0 +1,31 @@
+[
+    {
+      "category_ID": 1,
+      "CategoryName": "Hiking & Trekking"
+    },
+    {
+      "category_ID": 2,
+      "CategoryName": "Water Adventures"
+    },
+    {
+      "category_ID": 3,
+      "CategoryName": "Cultural & Wildlife"
+    },
+    {
+      "category_ID": 4,
+      "CategoryName": "Biking Adventures"
+    },
+    {
+      "category_ID": 5,
+      "CategoryName": "Wildlife & Nature"
+    },
+    {
+      "category_ID": 6,
+      "CategoryName": "Winter Adventures"
+    },
+    {
+      "category_ID": 7,
+      "CategoryName": "Adventure & Exploration"
+    }
+  ]
+  
