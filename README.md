@@ -1,8 +1,22 @@
-# React + Vite
+# 🌍 Eco-Adventure  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo**: [Eco-Adventure Website](https://eco-adventure-experience-6f026.web.app/)
 
-Currently, two official plugins are available:
+## 📜 Project Overview  
+**Eco-Adventure** is a platform showcasing eco-friendly travel experiences like mountain treks, ocean dives, and more. It promotes sustainable tourism by providing adventure details and encouraging responsible practices. Users can create profiles, explore adventures, and consult with experts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+- **Authentication System**: Login, registration, forgot password.  
+- **Profile Management**: Update name and photo.  
+- **Adventure Exploration**: View detailed adventure info, consult experts based on time.  
+- **Interactive Design**: Responsive layout with animations and hover effects.  
+- **Eco-Focus**: Promotes sustainable tourism practices.
+
+## 🛠️ Technologies Used  
+- **Frontend**: React.js, Tailwind CSS, Daisy UI.  
+- **NPM Packages**: `moment` for date/time handling, `animate.css` for animations.  
+
+## 🛴 Getting Started  
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/programming-hero-web-course1/b10-a9-authentication-khairul1036
