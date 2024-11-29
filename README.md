@@ -19,4 +19,4 @@
 ## 🛴 Getting Started  
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/programming-hero-web-course1/b10-a9-authentication-khairul1036
+   git clone https://github.com/khairul1036/Eco-Avanture.git
